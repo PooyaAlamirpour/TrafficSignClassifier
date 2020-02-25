@@ -1,0 +1,524 @@
+2020-02-19 04:07:40,587 INFO Training... dropout = 0.3 , batch_size = 128 , learning rate = 0.0001
+2020-02-19 04:08:02,535 INFO EPOCH 1 - 28 sec ...
+2020-02-19 04:08:02,536 INFO Training error = 0.601 Validation error = 0.641
+2020-02-19 04:08:18,088 INFO EPOCH 2 - 43 sec ...
+2020-02-19 04:08:18,088 INFO Training error = 0.385 Validation error = 0.443
+2020-02-19 04:08:34,189 INFO EPOCH 3 - 59 sec ...
+2020-02-19 04:08:34,189 INFO Training error = 0.294 Validation error = 0.341
+2020-02-19 04:08:49,882 INFO EPOCH 4 - 75 sec ...
+2020-02-19 04:08:49,883 INFO Training error = 0.242 Validation error = 0.282
+2020-02-19 04:09:05,339 INFO EPOCH 5 - 90 sec ...
+2020-02-19 04:09:05,340 INFO Training error = 0.204 Validation error = 0.237
+2020-02-19 04:09:20,771 INFO EPOCH 6 - 106 sec ...
+2020-02-19 04:09:20,771 INFO Training error = 0.177 Validation error = 0.200
+2020-02-19 04:09:36,359 INFO EPOCH 7 - 121 sec ...
+2020-02-19 04:09:36,360 INFO Training error = 0.159 Validation error = 0.178
+2020-02-19 04:09:52,193 INFO EPOCH 8 - 137 sec ...
+2020-02-19 04:09:52,193 INFO Training error = 0.144 Validation error = 0.165
+2020-02-19 04:10:07,630 INFO EPOCH 9 - 153 sec ...
+2020-02-19 04:10:07,631 INFO Training error = 0.131 Validation error = 0.135
+2020-02-19 04:10:28,679 INFO EPOCH 10 - 174 sec ...
+2020-02-19 04:10:28,680 INFO Training error = 0.123 Validation error = 0.128
+2020-02-19 04:10:48,396 INFO EPOCH 11 - 194 sec ...
+2020-02-19 04:10:48,396 INFO Training error = 0.114 Validation error = 0.122
+2020-02-19 04:11:09,760 INFO EPOCH 12 - 215 sec ...
+2020-02-19 04:11:09,760 INFO Training error = 0.109 Validation error = 0.113
+2020-02-19 04:11:25,248 INFO EPOCH 13 - 230 sec ...
+2020-02-19 04:11:25,249 INFO Training error = 0.102 Validation error = 0.103
+2020-02-19 04:11:45,500 INFO EPOCH 14 - 251 sec ...
+2020-02-19 04:11:45,500 INFO Training error = 0.098 Validation error = 0.102
+2020-02-19 04:12:06,719 INFO EPOCH 15 - 272 sec ...
+2020-02-19 04:12:06,719 INFO Training error = 0.093 Validation error = 0.096
+2020-02-19 04:12:22,269 INFO EPOCH 16 - 287 sec ...
+2020-02-19 04:12:22,270 INFO Training error = 0.089 Validation error = 0.094
+2020-02-19 04:12:42,101 INFO EPOCH 17 - 307 sec ...
+2020-02-19 04:12:42,102 INFO Training error = 0.084 Validation error = 0.090
+2020-02-19 04:12:57,721 INFO EPOCH 18 - 323 sec ...
+2020-02-19 04:12:57,721 INFO Training error = 0.081 Validation error = 0.091
+2020-02-19 04:13:17,327 INFO EPOCH 19 - 342 sec ...
+2020-02-19 04:13:17,328 INFO Training error = 0.079 Validation error = 0.088
+2020-02-19 04:13:38,314 INFO EPOCH 20 - 363 sec ...
+2020-02-19 04:13:38,315 INFO Training error = 0.076 Validation error = 0.084
+2020-02-19 04:13:57,647 INFO EPOCH 21 - 383 sec ...
+2020-02-19 04:13:57,648 INFO Training error = 0.076 Validation error = 0.085
+2020-02-19 04:14:18,517 INFO EPOCH 22 - 404 sec ...
+2020-02-19 04:14:18,518 INFO Training error = 0.072 Validation error = 0.082
+2020-02-19 04:14:34,071 INFO EPOCH 23 - 419 sec ...
+2020-02-19 04:14:34,071 INFO Training error = 0.071 Validation error = 0.084
+2020-02-19 04:14:49,786 INFO EPOCH 24 - 435 sec ...
+2020-02-19 04:14:49,786 INFO Training error = 0.068 Validation error = 0.079
+2020-02-19 04:15:05,128 INFO EPOCH 25 - 450 sec ...
+2020-02-19 04:15:05,129 INFO Training error = 0.067 Validation error = 0.076
+2020-02-19 04:15:24,337 INFO EPOCH 26 - 469 sec ...
+2020-02-19 04:15:24,338 INFO Training error = 0.067 Validation error = 0.077
+2020-02-19 04:15:44,398 INFO EPOCH 27 - 490 sec ...
+2020-02-19 04:15:44,398 INFO Training error = 0.065 Validation error = 0.076
+2020-02-19 04:16:05,917 INFO EPOCH 28 - 511 sec ...
+2020-02-19 04:16:05,917 INFO Training error = 0.064 Validation error = 0.074
+2020-02-19 04:16:21,613 INFO EPOCH 29 - 527 sec ...
+2020-02-19 04:16:21,613 INFO Training error = 0.063 Validation error = 0.070
+2020-02-19 04:16:42,146 INFO EPOCH 30 - 547 sec ...
+2020-02-19 04:16:42,146 INFO Training error = 0.061 Validation error = 0.075
+2020-02-19 04:16:57,939 INFO EPOCH 31 - 563 sec ...
+2020-02-19 04:16:57,940 INFO Training error = 0.061 Validation error = 0.071
+2020-02-19 04:17:17,037 INFO EPOCH 32 - 582 sec ...
+2020-02-19 04:17:17,037 INFO Training error = 0.060 Validation error = 0.074
+2020-02-19 04:17:38,300 INFO EPOCH 33 - 603 sec ...
+2020-02-19 04:17:38,300 INFO Training error = 0.059 Validation error = 0.071
+2020-02-19 04:17:59,369 INFO EPOCH 34 - 624 sec ...
+2020-02-19 04:17:59,369 INFO Training error = 0.057 Validation error = 0.072
+2020-02-19 04:18:18,827 INFO EPOCH 35 - 644 sec ...
+2020-02-19 04:18:18,828 INFO Training error = 0.058 Validation error = 0.069
+2020-02-19 04:18:39,718 INFO EPOCH 36 - 665 sec ...
+2020-02-19 04:18:39,718 INFO Training error = 0.059 Validation error = 0.070
+2020-02-19 04:19:01,371 INFO EPOCH 37 - 686 sec ...
+2020-02-19 04:19:01,371 INFO Training error = 0.056 Validation error = 0.070
+2020-02-19 04:19:17,067 INFO EPOCH 38 - 702 sec ...
+2020-02-19 04:19:17,067 INFO Training error = 0.056 Validation error = 0.071
+2020-02-19 04:19:38,459 INFO EPOCH 39 - 724 sec ...
+2020-02-19 04:19:38,459 INFO Training error = 0.055 Validation error = 0.067
+2020-02-19 04:19:54,232 INFO EPOCH 40 - 739 sec ...
+2020-02-19 04:19:54,232 INFO Training error = 0.054 Validation error = 0.068
+2020-02-19 04:20:15,388 INFO EPOCH 41 - 761 sec ...
+2020-02-19 04:20:15,389 INFO Training error = 0.054 Validation error = 0.066
+2020-02-19 04:20:35,581 INFO EPOCH 42 - 781 sec ...
+2020-02-19 04:20:35,582 INFO Training error = 0.053 Validation error = 0.067
+2020-02-19 04:20:51,307 INFO EPOCH 43 - 796 sec ...
+2020-02-19 04:20:51,307 INFO Training error = 0.053 Validation error = 0.065
+2020-02-19 04:21:06,906 INFO EPOCH 44 - 812 sec ...
+2020-02-19 04:21:06,906 INFO Training error = 0.052 Validation error = 0.063
+2020-02-19 04:21:27,888 INFO EPOCH 45 - 833 sec ...
+2020-02-19 04:21:27,889 INFO Training error = 0.052 Validation error = 0.067
+2020-02-19 04:21:49,200 INFO EPOCH 46 - 854 sec ...
+2020-02-19 04:21:49,200 INFO Training error = 0.051 Validation error = 0.063
+2020-02-19 04:22:09,589 INFO EPOCH 47 - 875 sec ...
+2020-02-19 04:22:09,589 INFO Training error = 0.051 Validation error = 0.063
+2020-02-19 04:22:24,990 INFO EPOCH 48 - 890 sec ...
+2020-02-19 04:22:24,991 INFO Training error = 0.050 Validation error = 0.064
+2020-02-19 04:22:46,008 INFO EPOCH 49 - 911 sec ...
+2020-02-19 04:22:46,008 INFO Training error = 0.049 Validation error = 0.063
+2020-02-19 04:23:07,445 INFO EPOCH 50 - 933 sec ...
+2020-02-19 04:23:07,445 INFO Training error = 0.049 Validation error = 0.061
+2020-02-19 04:23:27,709 INFO EPOCH 51 - 953 sec ...
+2020-02-19 04:23:27,710 INFO Training error = 0.049 Validation error = 0.060
+2020-02-19 04:23:49,197 INFO EPOCH 52 - 974 sec ...
+2020-02-19 04:23:49,197 INFO Training error = 0.049 Validation error = 0.061
+2020-02-19 04:24:04,936 INFO EPOCH 53 - 990 sec ...
+2020-02-19 04:24:04,936 INFO Training error = 0.048 Validation error = 0.061
+2020-02-19 04:24:26,058 INFO EPOCH 54 - 1011 sec ...
+2020-02-19 04:24:26,059 INFO Training error = 0.049 Validation error = 0.066
+2020-02-19 04:24:41,540 INFO EPOCH 55 - 1027 sec ...
+2020-02-19 04:24:41,540 INFO Training error = 0.048 Validation error = 0.060
+2020-02-19 04:25:02,806 INFO EPOCH 56 - 1048 sec ...
+2020-02-19 04:25:02,806 INFO Training error = 0.047 Validation error = 0.059
+2020-02-19 04:25:18,146 INFO EPOCH 57 - 1063 sec ...
+2020-02-19 04:25:18,147 INFO Training error = 0.046 Validation error = 0.062
+2020-02-19 04:25:39,338 INFO EPOCH 58 - 1084 sec ...
+2020-02-19 04:25:39,338 INFO Training error = 0.047 Validation error = 0.062
+2020-02-19 04:25:54,753 INFO EPOCH 59 - 1100 sec ...
+2020-02-19 04:25:54,754 INFO Training error = 0.046 Validation error = 0.061
+2020-02-19 04:26:15,671 INFO EPOCH 60 - 1121 sec ...
+2020-02-19 04:26:15,671 INFO Training error = 0.046 Validation error = 0.064
+2020-02-19 04:26:31,142 INFO EPOCH 61 - 1136 sec ...
+2020-02-19 04:26:31,142 INFO Training error = 0.045 Validation error = 0.060
+2020-02-19 04:26:51,406 INFO EPOCH 62 - 1157 sec ...
+2020-02-19 04:26:51,407 INFO Training error = 0.046 Validation error = 0.063
+2020-02-19 04:27:11,124 INFO EPOCH 63 - 1176 sec ...
+2020-02-19 04:27:11,125 INFO Training error = 0.046 Validation error = 0.060
+2020-02-19 04:27:32,185 INFO EPOCH 64 - 1197 sec ...
+2020-02-19 04:27:32,185 INFO Training error = 0.045 Validation error = 0.060
+2020-02-19 04:27:47,985 INFO EPOCH 65 - 1213 sec ...
+2020-02-19 04:27:47,985 INFO Training error = 0.044 Validation error = 0.062
+2020-02-19 04:28:06,685 INFO EPOCH 66 - 1232 sec ...
+2020-02-19 04:28:06,685 INFO Training error = 0.044 Validation error = 0.062
+2020-02-19 04:28:22,171 INFO EPOCH 67 - 1247 sec ...
+2020-02-19 04:28:22,171 INFO Training error = 0.044 Validation error = 0.061
+2020-02-19 04:28:41,919 INFO EPOCH 68 - 1267 sec ...
+2020-02-19 04:28:41,920 INFO Training error = 0.043 Validation error = 0.059
+2020-02-19 04:28:57,426 INFO EPOCH 69 - 1283 sec ...
+2020-02-19 04:28:57,426 INFO Training error = 0.045 Validation error = 0.062
+2020-02-19 04:29:18,035 INFO EPOCH 70 - 1303 sec ...
+2020-02-19 04:29:18,036 INFO Training error = 0.043 Validation error = 0.060
+2020-02-19 04:29:33,649 INFO EPOCH 71 - 1319 sec ...
+2020-02-19 04:29:33,650 INFO Training error = 0.043 Validation error = 0.060
+2020-02-19 04:29:49,405 INFO EPOCH 72 - 1335 sec ...
+2020-02-19 04:29:49,405 INFO Training error = 0.043 Validation error = 0.057
+2020-02-19 04:30:09,406 INFO EPOCH 73 - 1355 sec ...
+2020-02-19 04:30:09,406 INFO Training error = 0.043 Validation error = 0.060
+2020-02-19 04:30:30,643 INFO EPOCH 74 - 1376 sec ...
+2020-02-19 04:30:30,643 INFO Training error = 0.043 Validation error = 0.059
+2020-02-19 04:30:46,283 INFO EPOCH 75 - 1391 sec ...
+2020-02-19 04:30:46,283 INFO Training error = 0.042 Validation error = 0.058
+2020-02-19 04:31:01,837 INFO EPOCH 76 - 1407 sec ...
+2020-02-19 04:31:01,837 INFO Training error = 0.042 Validation error = 0.057
+2020-02-19 04:31:23,213 INFO EPOCH 77 - 1428 sec ...
+2020-02-19 04:31:23,213 INFO Training error = 0.042 Validation error = 0.058
+2020-02-19 04:31:38,740 INFO EPOCH 78 - 1444 sec ...
+2020-02-19 04:31:38,741 INFO Training error = 0.042 Validation error = 0.061
+2020-02-19 04:31:59,899 INFO EPOCH 79 - 1465 sec ...
+2020-02-19 04:31:59,899 INFO Training error = 0.042 Validation error = 0.054
+2020-02-19 04:32:15,430 INFO EPOCH 80 - 1481 sec ...
+2020-02-19 04:32:15,431 INFO Training error = 0.041 Validation error = 0.056
+2020-02-19 04:32:36,493 INFO EPOCH 81 - 1502 sec ...
+2020-02-19 04:32:36,493 INFO Training error = 0.042 Validation error = 0.060
+2020-02-19 04:32:52,074 INFO EPOCH 82 - 1517 sec ...
+2020-02-19 04:32:52,074 INFO Training error = 0.041 Validation error = 0.060
+2020-02-19 04:33:13,362 INFO EPOCH 83 - 1538 sec ...
+2020-02-19 04:33:13,363 INFO Training error = 0.041 Validation error = 0.058
+2020-02-19 04:33:28,758 INFO EPOCH 84 - 1554 sec ...
+2020-02-19 04:33:28,759 INFO Training error = 0.040 Validation error = 0.058
+2020-02-19 04:33:50,168 INFO EPOCH 85 - 1575 sec ...
+2020-02-19 04:33:50,168 INFO Training error = 0.041 Validation error = 0.059
+2020-02-19 04:34:05,753 INFO EPOCH 86 - 1591 sec ...
+2020-02-19 04:34:05,753 INFO Training error = 0.040 Validation error = 0.057
+2020-02-19 04:34:27,169 INFO EPOCH 87 - 1612 sec ...
+2020-02-19 04:34:27,169 INFO Training error = 0.041 Validation error = 0.060
+2020-02-19 04:34:42,866 INFO EPOCH 88 - 1628 sec ...
+2020-02-19 04:34:42,866 INFO Training error = 0.041 Validation error = 0.058
+2020-02-19 04:35:01,879 INFO EPOCH 89 - 1647 sec ...
+2020-02-19 04:35:01,880 INFO Training error = 0.040 Validation error = 0.056
+2020-02-19 04:35:17,457 INFO EPOCH 90 - 1663 sec ...
+2020-02-19 04:35:17,457 INFO Training error = 0.041 Validation error = 0.059
+2020-02-19 04:35:38,493 INFO EPOCH 91 - 1684 sec ...
+2020-02-19 04:35:38,493 INFO Training error = 0.040 Validation error = 0.058
+2020-02-19 04:35:54,231 INFO EPOCH 92 - 1699 sec ...
+2020-02-19 04:35:54,231 INFO Training error = 0.039 Validation error = 0.056
+2020-02-19 04:36:09,837 INFO EPOCH 93 - 1715 sec ...
+2020-02-19 04:36:09,837 INFO Training error = 0.040 Validation error = 0.056
+2020-02-19 04:36:25,315 INFO EPOCH 94 - 1730 sec ...
+2020-02-19 04:36:25,315 INFO Training error = 0.040 Validation error = 0.057
+2020-02-19 04:36:40,889 INFO EPOCH 95 - 1746 sec ...
+2020-02-19 04:36:40,890 INFO Training error = 0.040 Validation error = 0.056
+2020-02-19 04:37:00,548 INFO EPOCH 96 - 1766 sec ...
+2020-02-19 04:37:00,548 INFO Training error = 0.039 Validation error = 0.055
+2020-02-19 04:37:16,069 INFO EPOCH 97 - 1781 sec ...
+2020-02-19 04:37:16,069 INFO Training error = 0.039 Validation error = 0.057
+2020-02-19 04:37:34,812 INFO EPOCH 98 - 1800 sec ...
+2020-02-19 04:37:34,813 INFO Training error = 0.038 Validation error = 0.055
+2020-02-19 04:37:56,143 INFO EPOCH 99 - 1821 sec ...
+2020-02-19 04:37:56,144 INFO Training error = 0.039 Validation error = 0.054
+2020-02-19 04:38:11,650 INFO EPOCH 100 - 1837 sec ...
+2020-02-19 04:38:11,651 INFO Training error = 0.039 Validation error = 0.056
+2020-02-19 04:38:31,594 INFO EPOCH 101 - 1857 sec ...
+2020-02-19 04:38:31,594 INFO Training error = 0.040 Validation error = 0.058
+2020-02-19 04:38:47,180 INFO EPOCH 102 - 1872 sec ...
+2020-02-19 04:38:47,181 INFO Training error = 0.039 Validation error = 0.057
+2020-02-19 04:39:06,935 INFO EPOCH 103 - 1892 sec ...
+2020-02-19 04:39:06,935 INFO Training error = 0.038 Validation error = 0.056
+2020-02-19 04:39:22,392 INFO EPOCH 104 - 1908 sec ...
+2020-02-19 04:39:22,392 INFO Training error = 0.038 Validation error = 0.054
+2020-02-19 04:39:41,884 INFO EPOCH 105 - 1927 sec ...
+2020-02-19 04:39:41,885 INFO Training error = 0.039 Validation error = 0.055
+2020-02-19 04:39:57,416 INFO EPOCH 106 - 1943 sec ...
+2020-02-19 04:39:57,417 INFO Training error = 0.037 Validation error = 0.056
+2020-02-19 04:40:18,759 INFO EPOCH 107 - 1964 sec ...
+2020-02-19 04:40:18,760 INFO Training error = 0.040 Validation error = 0.056
+2020-02-19 04:40:39,819 INFO EPOCH 108 - 1985 sec ...
+2020-02-19 04:40:39,819 INFO Training error = 0.039 Validation error = 0.052
+2020-02-19 04:40:55,445 INFO EPOCH 109 - 2001 sec ...
+2020-02-19 04:40:55,445 INFO Training error = 0.038 Validation error = 0.057
+2020-02-19 04:41:15,830 INFO EPOCH 110 - 2021 sec ...
+2020-02-19 04:41:15,831 INFO Training error = 0.037 Validation error = 0.053
+2020-02-19 04:41:36,804 INFO EPOCH 111 - 2042 sec ...
+2020-02-19 04:41:36,804 INFO Training error = 0.037 Validation error = 0.053
+2020-02-19 04:41:52,164 INFO EPOCH 112 - 2057 sec ...
+2020-02-19 04:41:52,165 INFO Training error = 0.037 Validation error = 0.056
+2020-02-19 04:42:12,964 INFO EPOCH 113 - 2078 sec ...
+2020-02-19 04:42:12,964 INFO Training error = 0.038 Validation error = 0.054
+2020-02-19 04:42:28,235 INFO EPOCH 114 - 2093 sec ...
+2020-02-19 04:42:28,235 INFO Training error = 0.037 Validation error = 0.052
+2020-02-19 04:42:48,300 INFO EPOCH 115 - 2113 sec ...
+2020-02-19 04:42:48,301 INFO Training error = 0.037 Validation error = 0.052
+2020-02-19 04:43:03,796 INFO EPOCH 116 - 2129 sec ...
+2020-02-19 04:43:03,797 INFO Training error = 0.037 Validation error = 0.055
+2020-02-19 04:43:24,762 INFO EPOCH 117 - 2150 sec ...
+2020-02-19 04:43:24,763 INFO Training error = 0.038 Validation error = 0.054
+2020-02-19 04:43:40,358 INFO EPOCH 118 - 2165 sec ...
+2020-02-19 04:43:40,359 INFO Training error = 0.037 Validation error = 0.054
+2020-02-19 04:44:00,388 INFO EPOCH 119 - 2186 sec ...
+2020-02-19 04:44:00,388 INFO Training error = 0.037 Validation error = 0.051
+2020-02-19 04:44:19,083 INFO EPOCH 120 - 2204 sec ...
+2020-02-19 04:44:19,083 INFO Training error = 0.036 Validation error = 0.052
+2020-02-19 04:44:39,841 INFO EPOCH 121 - 2225 sec ...
+2020-02-19 04:44:39,841 INFO Training error = 0.036 Validation error = 0.052
+2020-02-19 04:44:55,532 INFO EPOCH 122 - 2241 sec ...
+2020-02-19 04:44:55,533 INFO Training error = 0.036 Validation error = 0.053
+2020-02-19 04:45:11,094 INFO EPOCH 123 - 2256 sec ...
+2020-02-19 04:45:11,094 INFO Training error = 0.037 Validation error = 0.053
+2020-02-19 04:45:27,043 INFO EPOCH 124 - 2272 sec ...
+2020-02-19 04:45:27,043 INFO Training error = 0.036 Validation error = 0.053
+2020-02-19 04:45:46,474 INFO EPOCH 125 - 2292 sec ...
+2020-02-19 04:45:46,474 INFO Training error = 0.036 Validation error = 0.051
+2020-02-19 04:46:07,608 INFO EPOCH 126 - 2313 sec ...
+2020-02-19 04:46:07,609 INFO Training error = 0.036 Validation error = 0.051
+2020-02-19 04:46:23,107 INFO EPOCH 127 - 2328 sec ...
+2020-02-19 04:46:23,107 INFO Training error = 0.036 Validation error = 0.052
+2020-02-19 04:46:44,176 INFO EPOCH 128 - 2349 sec ...
+2020-02-19 04:46:44,176 INFO Training error = 0.035 Validation error = 0.051
+2020-02-19 04:47:05,465 INFO EPOCH 129 - 2371 sec ...
+2020-02-19 04:47:05,466 INFO Training error = 0.036 Validation error = 0.051
+2020-02-19 04:47:20,998 INFO EPOCH 130 - 2386 sec ...
+2020-02-19 04:47:20,998 INFO Training error = 0.035 Validation error = 0.054
+2020-02-19 04:47:42,185 INFO EPOCH 131 - 2407 sec ...
+2020-02-19 04:47:42,185 INFO Training error = 0.037 Validation error = 0.052
+2020-02-19 04:47:57,920 INFO EPOCH 132 - 2423 sec ...
+2020-02-19 04:47:57,920 INFO Training error = 0.036 Validation error = 0.050
+2020-02-19 04:48:19,360 INFO EPOCH 133 - 2444 sec ...
+2020-02-19 04:48:19,360 INFO Training error = 0.036 Validation error = 0.053
+2020-02-19 04:48:35,100 INFO EPOCH 134 - 2460 sec ...
+2020-02-19 04:48:35,100 INFO Training error = 0.035 Validation error = 0.052
+2020-02-19 04:48:55,018 INFO EPOCH 135 - 2480 sec ...
+2020-02-19 04:48:55,018 INFO Training error = 0.035 Validation error = 0.050
+2020-02-19 04:49:10,618 INFO EPOCH 136 - 2496 sec ...
+2020-02-19 04:49:10,619 INFO Training error = 0.036 Validation error = 0.053
+2020-02-19 04:49:30,389 INFO EPOCH 137 - 2516 sec ...
+2020-02-19 04:49:30,389 INFO Training error = 0.036 Validation error = 0.049
+2020-02-19 04:49:49,284 INFO EPOCH 138 - 2534 sec ...
+2020-02-19 04:49:49,284 INFO Training error = 0.035 Validation error = 0.051
+2020-02-19 04:50:10,248 INFO EPOCH 139 - 2555 sec ...
+2020-02-19 04:50:10,248 INFO Training error = 0.035 Validation error = 0.049
+2020-02-19 04:50:25,628 INFO EPOCH 140 - 2571 sec ...
+2020-02-19 04:50:25,629 INFO Training error = 0.034 Validation error = 0.052
+2020-02-19 04:50:41,058 INFO EPOCH 141 - 2586 sec ...
+2020-02-19 04:50:41,058 INFO Training error = 0.035 Validation error = 0.050
+2020-02-19 04:51:02,495 INFO EPOCH 142 - 2608 sec ...
+2020-02-19 04:51:02,495 INFO Training error = 0.035 Validation error = 0.049
+2020-02-19 04:51:17,952 INFO EPOCH 143 - 2623 sec ...
+2020-02-19 04:51:17,953 INFO Training error = 0.035 Validation error = 0.053
+2020-02-19 04:51:33,454 INFO EPOCH 144 - 2639 sec ...
+2020-02-19 04:51:33,454 INFO Training error = 0.035 Validation error = 0.050
+2020-02-19 04:51:54,607 INFO EPOCH 145 - 2660 sec ...
+2020-02-19 04:51:54,607 INFO Training error = 0.035 Validation error = 0.049
+2020-02-19 04:52:10,181 INFO EPOCH 146 - 2675 sec ...
+2020-02-19 04:52:10,181 INFO Training error = 0.035 Validation error = 0.053
+2020-02-19 04:52:29,931 INFO EPOCH 147 - 2695 sec ...
+2020-02-19 04:52:29,931 INFO Training error = 0.034 Validation error = 0.052
+2020-02-19 04:52:51,135 INFO EPOCH 148 - 2716 sec ...
+2020-02-19 04:52:51,135 INFO Training error = 0.036 Validation error = 0.056
+2020-02-19 04:53:10,812 INFO EPOCH 149 - 2736 sec ...
+2020-02-19 04:53:10,812 INFO Training error = 0.035 Validation error = 0.051
+2020-02-19 04:53:26,459 INFO EPOCH 150 - 2752 sec ...
+2020-02-19 04:53:26,459 INFO Training error = 0.035 Validation error = 0.049
+2020-02-19 05:31:42,365 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.accumulate_n is deprecated. Please use tf.math.accumulate_n instead.
+
+2020-02-19 05:31:42,384 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.add_check_numerics_ops is deprecated. Please use tf.compat.v1.add_check_numerics_ops instead.
+
+2020-02-19 05:31:42,390 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.add_to_collection is deprecated. Please use tf.compat.v1.add_to_collection instead.
+
+2020-02-19 05:31:42,396 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.add_to_collections is deprecated. Please use tf.compat.v1.add_to_collections instead.
+
+2020-02-19 05:31:42,406 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.angle is deprecated. Please use tf.math.angle instead.
+
+2020-02-19 05:31:42,409 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.arg_max is deprecated. Please use tf.argmax instead.
+
+2020-02-19 05:31:42,415 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.arg_min is deprecated. Please use tf.argmin instead.
+
+2020-02-19 05:31:42,442 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_equal is deprecated. Please use tf.compat.v1.assert_equal instead.
+
+2020-02-19 05:31:42,448 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_greater is deprecated. Please use tf.compat.v1.assert_greater instead.
+
+2020-02-19 05:31:42,451 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_greater_equal is deprecated. Please use tf.compat.v1.assert_greater_equal instead.
+
+2020-02-19 05:31:42,454 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_integer is deprecated. Please use tf.compat.v1.assert_integer instead.
+
+2020-02-19 05:31:42,459 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_less is deprecated. Please use tf.compat.v1.assert_less instead.
+
+2020-02-19 05:31:42,462 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_less_equal is deprecated. Please use tf.compat.v1.assert_less_equal instead.
+
+2020-02-19 05:31:42,465 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_near is deprecated. Please use tf.compat.v1.assert_near instead.
+
+2020-02-19 05:31:42,470 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_negative is deprecated. Please use tf.compat.v1.assert_negative instead.
+
+2020-02-19 05:31:42,480 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_non_negative is deprecated. Please use tf.compat.v1.assert_non_negative instead.
+
+2020-02-19 05:31:42,484 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_non_positive is deprecated. Please use tf.compat.v1.assert_non_positive instead.
+
+2020-02-19 05:31:42,487 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_none_equal is deprecated. Please use tf.compat.v1.assert_none_equal instead.
+
+2020-02-19 05:31:42,490 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_positive is deprecated. Please use tf.compat.v1.assert_positive instead.
+
+2020-02-19 05:31:42,493 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_proper_iterable is deprecated. Please use tf.debugging.assert_proper_iterable instead.
+
+2020-02-19 05:31:42,496 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_rank is deprecated. Please use tf.compat.v1.assert_rank instead.
+
+2020-02-19 05:31:42,500 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_rank_at_least is deprecated. Please use tf.compat.v1.assert_rank_at_least instead.
+
+2020-02-19 05:31:42,504 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_rank_in is deprecated. Please use tf.compat.v1.assert_rank_in instead.
+
+2020-02-19 05:31:42,510 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_same_float_dtype is deprecated. Please use tf.debugging.assert_same_float_dtype instead.
+
+2020-02-19 05:31:42,518 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_scalar is deprecated. Please use tf.compat.v1.assert_scalar instead.
+
+2020-02-19 05:31:42,521 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_type is deprecated. Please use tf.compat.v1.assert_type instead.
+
+2020-02-19 05:31:42,524 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assert_variables_initialized is deprecated. Please use tf.compat.v1.assert_variables_initialized instead.
+
+2020-02-19 05:31:42,528 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+2020-02-19 05:31:42,533 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assign_add is deprecated. Please use tf.compat.v1.assign_add instead.
+
+2020-02-19 05:31:42,542 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.assign_sub is deprecated. Please use tf.compat.v1.assign_sub instead.
+
+2020-02-19 05:31:42,556 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.AttrValue is deprecated. Please use tf.compat.v1.AttrValue instead.
+
+2020-02-19 05:31:42,561 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.AUTO_REUSE is deprecated. Please use tf.compat.v1.AUTO_REUSE instead.
+
+2020-02-19 05:31:42,571 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.batch_to_space_nd is deprecated. Please use tf.batch_to_space instead.
+
+2020-02-19 05:31:42,586 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.betainc is deprecated. Please use tf.math.betainc instead.
+
+2020-02-19 05:31:42,593 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.bincount is deprecated. Please use tf.math.bincount instead.
+
+2020-02-19 05:31:42,608 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.ceil is deprecated. Please use tf.math.ceil instead.
+
+2020-02-19 05:31:42,611 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.check_numerics is deprecated. Please use tf.debugging.check_numerics instead.
+
+2020-02-19 05:31:42,616 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.cholesky is deprecated. Please use tf.linalg.cholesky instead.
+
+2020-02-19 05:31:42,627 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.cholesky_solve is deprecated. Please use tf.linalg.cholesky_solve instead.
+
+2020-02-19 05:31:42,645 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.COMPILER_VERSION is deprecated. Please use tf.version.COMPILER_VERSION instead.
+
+2020-02-19 05:31:42,653 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.ConditionalAccumulator is deprecated. Please use tf.compat.v1.ConditionalAccumulator instead.
+
+2020-02-19 05:31:42,663 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.ConditionalAccumulatorBase is deprecated. Please use tf.compat.v1.ConditionalAccumulatorBase instead.
+
+2020-02-19 05:31:42,671 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2020-02-19 05:31:42,676 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.confusion_matrix is deprecated. Please use tf.math.confusion_matrix instead.
+
+2020-02-19 05:31:42,680 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.conj is deprecated. Please use tf.math.conj instead.
+
+2020-02-19 05:31:42,690 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.container is deprecated. Please use tf.compat.v1.container instead.
+
+2020-02-19 05:31:42,693 WARNING 
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+2020-02-19 05:31:42,699 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.control_flow_v2_enabled is deprecated. Please use tf.compat.v1.control_flow_v2_enabled instead.
+
+2020-02-19 05:31:42,703 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.convert_to_tensor_or_indexed_slices is deprecated. Please use tf.compat.v1.convert_to_tensor_or_indexed_slices instead.
+
+2020-02-19 05:31:42,708 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.convert_to_tensor_or_sparse_tensor is deprecated. Please use tf.compat.v1.convert_to_tensor_or_sparse_tensor instead.
+
+2020-02-19 05:31:45,489 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.AdadeltaOptimizer is deprecated. Please use tf.compat.v1.train.AdadeltaOptimizer instead.
+
+2020-02-19 05:31:45,502 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.AdagradDAOptimizer is deprecated. Please use tf.compat.v1.train.AdagradDAOptimizer instead.
+
+2020-02-19 05:31:45,511 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.AdagradOptimizer is deprecated. Please use tf.compat.v1.train.AdagradOptimizer instead.
+
+2020-02-19 05:31:45,528 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.assert_global_step is deprecated. Please use tf.compat.v1.train.assert_global_step instead.
+
+2020-02-19 05:31:45,536 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.basic_train_loop is deprecated. Please use tf.compat.v1.train.basic_train_loop instead.
+
+2020-02-19 05:31:45,568 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.CheckpointSaverHook is deprecated. Please use tf.estimator.CheckpointSaverHook instead.
+
+2020-02-19 05:31:45,577 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.CheckpointSaverListener is deprecated. Please use tf.estimator.CheckpointSaverListener instead.
+
+2020-02-19 05:31:45,582 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.ChiefSessionCreator is deprecated. Please use tf.compat.v1.train.ChiefSessionCreator instead.
+
+2020-02-19 05:31:45,601 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.cosine_decay is deprecated. Please use tf.compat.v1.train.cosine_decay instead.
+
+2020-02-19 05:31:45,605 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.cosine_decay_restarts is deprecated. Please use tf.compat.v1.train.cosine_decay_restarts instead.
+
+2020-02-19 05:31:45,609 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.create_global_step is deprecated. Please use tf.compat.v1.train.create_global_step instead.
+
+2020-02-19 05:31:45,622 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.exponential_decay is deprecated. Please use tf.compat.v1.train.exponential_decay instead.
+
+2020-02-19 05:31:45,631 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.export_meta_graph is deprecated. Please use tf.compat.v1.train.export_meta_graph instead.
+
+2020-02-19 05:31:45,644 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.FeedFnHook is deprecated. Please use tf.estimator.FeedFnHook instead.
+
+2020-02-19 05:31:45,648 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.FinalOpsHook is deprecated. Please use tf.estimator.FinalOpsHook instead.
+
+2020-02-19 05:31:45,654 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.FtrlOptimizer is deprecated. Please use tf.compat.v1.train.FtrlOptimizer instead.
+
+2020-02-19 05:31:45,666 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.generate_checkpoint_state_proto is deprecated. Please use tf.compat.v1.train.generate_checkpoint_state_proto instead.
+
+2020-02-19 05:31:45,674 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.get_global_step is deprecated. Please use tf.compat.v1.train.get_global_step instead.
+
+2020-02-19 05:31:45,675 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.get_or_create_global_step is deprecated. Please use tf.compat.v1.train.get_or_create_global_step instead.
+
+2020-02-19 05:31:45,678 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.global_step is deprecated. Please use tf.compat.v1.train.global_step instead.
+
+2020-02-19 05:31:45,680 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.GlobalStepWaiterHook is deprecated. Please use tf.estimator.GlobalStepWaiterHook instead.
+
+2020-02-19 05:31:45,686 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.GradientDescentOptimizer is deprecated. Please use tf.compat.v1.train.GradientDescentOptimizer instead.
+
+2020-02-19 05:31:45,692 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.import_meta_graph is deprecated. Please use tf.compat.v1.train.import_meta_graph instead.
+
+2020-02-19 05:31:45,696 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.init_from_checkpoint is deprecated. Please use tf.compat.v1.train.init_from_checkpoint instead.
+
+2020-02-19 05:31:45,705 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.inverse_time_decay is deprecated. Please use tf.compat.v1.train.inverse_time_decay instead.
+
+2020-02-19 05:31:45,712 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.linear_cosine_decay is deprecated. Please use tf.compat.v1.train.linear_cosine_decay instead.
+
+2020-02-19 05:31:45,719 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.LoggingTensorHook is deprecated. Please use tf.estimator.LoggingTensorHook instead.
+
+2020-02-19 05:31:45,724 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.LooperThread is deprecated. Please use tf.compat.v1.train.LooperThread instead.
+
+2020-02-19 05:31:45,731 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.match_filenames_once is deprecated. Please use tf.io.match_filenames_once instead.
+
+2020-02-19 05:31:45,740 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.MomentumOptimizer is deprecated. Please use tf.compat.v1.train.MomentumOptimizer instead.
+
+2020-02-19 05:31:45,746 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.MonitoredSession is deprecated. Please use tf.compat.v1.train.MonitoredSession instead.
+
+2020-02-19 05:31:45,749 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.MonitoredTrainingSession is deprecated. Please use tf.compat.v1.train.MonitoredTrainingSession instead.
+
+2020-02-19 05:31:45,758 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.NanLossDuringTrainingError is deprecated. Please use tf.estimator.NanLossDuringTrainingError instead.
+
+2020-02-19 05:31:45,762 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.NanTensorHook is deprecated. Please use tf.estimator.NanTensorHook instead.
+
+2020-02-19 05:31:45,765 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.natural_exp_decay is deprecated. Please use tf.compat.v1.train.natural_exp_decay instead.
+
+2020-02-19 05:31:45,768 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.NewCheckpointReader is deprecated. Please use tf.compat.v1.train.NewCheckpointReader instead.
+
+2020-02-19 05:31:45,769 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.noisy_linear_cosine_decay is deprecated. Please use tf.compat.v1.train.noisy_linear_cosine_decay instead.
+
+2020-02-19 05:31:45,773 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2020-02-19 05:31:45,800 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.piecewise_constant is deprecated. Please use tf.compat.v1.train.piecewise_constant instead.
+
+2020-02-19 05:31:45,804 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.piecewise_constant_decay is deprecated. Please use tf.compat.v1.train.piecewise_constant_decay instead.
+
+2020-02-19 05:31:45,814 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.polynomial_decay is deprecated. Please use tf.compat.v1.train.polynomial_decay instead.
+
+2020-02-19 05:31:45,819 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.ProfilerHook is deprecated. Please use tf.estimator.ProfilerHook instead.
+
+2020-02-19 05:31:45,827 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.ProximalAdagradOptimizer is deprecated. Please use tf.compat.v1.train.ProximalAdagradOptimizer instead.
+
+2020-02-19 05:31:45,838 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.ProximalGradientDescentOptimizer is deprecated. Please use tf.compat.v1.train.ProximalGradientDescentOptimizer instead.
+
+2020-02-19 05:31:45,853 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.replica_device_setter is deprecated. Please use tf.compat.v1.train.replica_device_setter instead.
+
+2020-02-19 05:31:45,857 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.RMSPropOptimizer is deprecated. Please use tf.compat.v1.train.RMSPropOptimizer instead.
+
+2020-02-19 05:31:45,882 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.SaverDef is deprecated. Please use tf.compat.v1.train.SaverDef instead.
+
+2020-02-19 05:31:45,886 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.Scaffold is deprecated. Please use tf.compat.v1.train.Scaffold instead.
+
+2020-02-19 05:31:45,894 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.sdca_fprint is deprecated. Please use tf.raw_ops.SdcaFprint instead.
+
+2020-02-19 05:31:45,899 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.sdca_optimizer is deprecated. Please use tf.raw_ops.SdcaOptimizer instead.
+
+2020-02-19 05:31:45,909 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.sdca_shrink_l1 is deprecated. Please use tf.raw_ops.SdcaShrinkL1 instead.
+
+2020-02-19 05:31:45,912 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.SecondOrStepTimer is deprecated. Please use tf.estimator.SecondOrStepTimer instead.
+
+2020-02-19 05:31:45,919 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.Server is deprecated. Please use tf.distribute.Server instead.
+
+2020-02-19 05:31:45,930 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.SessionCreator is deprecated. Please use tf.compat.v1.train.SessionCreator instead.
+
+2020-02-19 05:31:45,934 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.SessionManager is deprecated. Please use tf.compat.v1.train.SessionManager instead.
+
+2020-02-19 05:31:45,946 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.SessionRunArgs is deprecated. Please use tf.estimator.SessionRunArgs instead.
+
+2020-02-19 05:31:45,950 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.SessionRunContext is deprecated. Please use tf.estimator.SessionRunContext instead.
+
+2020-02-19 05:31:45,953 WARNING From /usr/local/lib/python3.6/dist-packages/google/colab/_shell.py:304: The name tf.train.SessionRunHook is deprecated. Please use tf.estimator.SessionRunHook instead.
+
+2020-02-19 05:32:06,972 INFO Restoring parameters from models/lenet
