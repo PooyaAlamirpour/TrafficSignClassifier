@@ -83,5 +83,6 @@ Top 5 Labels for image 'Bumpy road':
 Thanks for reading my article and watching my implementation video. Feel free to ask me any questions.
 
 ### Refrence
-* [HSL and HSV](https://en.wikipedia.org/wiki/HSL_and_HSV)
-* [Sobel operator](https://en.wikipedia.org/wiki/Sobel_operator)
+* [YUV Channel](https://en.wikipedia.org/wiki/YUV)
+* [Gaussian blur](https://en.wikipedia.org/wiki/Gaussian_blur)
+* [LeNet – Convolutional Neural Network in Python](https://www.pyimagesearch.com/2016/08/01/lenet-convolutional-neural-network-in-python/)
