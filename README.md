@@ -82,7 +82,12 @@ Top 5 Labels for image 'Bumpy road':
 
 Thanks for reading my article and watching my implementation video. Feel free to ask me any questions.
 
-### Refrence
+### References
 * [YUV Channel](https://en.wikipedia.org/wiki/YUV)
 * [Gaussian blur](https://en.wikipedia.org/wiki/Gaussian_blur)
 * [LeNet – Convolutional Neural Network in Python](https://www.pyimagesearch.com/2016/08/01/lenet-convolutional-neural-network-in-python/)
+* [Color-to-Grayscale: Does the Method Matter in Image Recognition?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029740)
+* [A guide to convolution arithmetic for deep learning](https://arxiv.org/pdf/1603.07285.pdf)
+* [Understanding data augmentation for classification: when to warp?](https://arxiv.org/pdf/1609.08764.pdf)
+* [Analysis of Dropout](https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/)
+* [Visualizing Neural Network Layer Activation (Tensorflow Tutorial)](https://medium.com/@awjuliani/visualizing-neural-network-layer-activation-tensorflow-tutorial-d45f8bf7bbc4)
